@@ -1,0 +1,11 @@
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+  display: none;
+}
+.css-204u17-MuiDataGrid-main {
+  font-size: 12px;
+}
+.css-sjdrdm-MuiDataGrid-footerContainer {
+  justify-content: center !important;
+}
